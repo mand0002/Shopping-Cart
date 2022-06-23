@@ -1,2 +1,2 @@
-# Shopping-Cart
-A list of grocery items for shopping
+# navBarExercises
+Basic Exercises in Navbar, Props etc
